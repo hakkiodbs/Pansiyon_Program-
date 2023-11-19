@@ -1,0 +1,23 @@
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.exe.config
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.exe
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.pdb
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.csprojResolveAssemblyReference.cache
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.Properties.Resources.resources
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.csproj.GenerateResource.Cache
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.exe
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.pdb
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmYeniMusteri.resources
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmAdminGirisi.resources
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmAnaForm.resources
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmOdalar.resources
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmMusteriler.resources
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmMuhasebeFormu.resources
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmStoklar.resources
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmFiyat_Guncelle.resources
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\Interop.WMPLib.dll
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\AxInterop.WMPLib.dll
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Interop.WMPLib.dll
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\AxInterop.WMPLib.dll
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.csproj.ResolveComReference.cache
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmRadyoDinle.resources
+c:\users\hakki\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmGazeteler.resources
